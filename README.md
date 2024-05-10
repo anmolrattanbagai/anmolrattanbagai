@@ -6,7 +6,6 @@
 - Databases: MongoDb, MySql, PostgresSql.
 - Socket, WebSocket.
 - AWS Lambda, AWS Cloud.
-- 
    
 
 <!---
